@@ -11,6 +11,7 @@ public class Main
            String Binary = Integer.toBinaryString(number);
            System.out.println("Binary number is: " + Binary);
            System.out.println("Number of binary digits: " + Binary.length());
+        
        
         //Sequential
          System.out.print("Enter the size of the array: ");
