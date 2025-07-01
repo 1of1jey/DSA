@@ -15,7 +15,7 @@ Condition: The target element b is found at the first index (i.e., A[0]).
 Time Complexity: O(1)
 Explanation: Only one comparison is made.
 
- Worst Cas
+ Worst Case
 Condition:
 The target element b is not in the array, or
 b is at the last index (i.e., A[A.length - 1])
